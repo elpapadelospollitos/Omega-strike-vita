@@ -1,6 +1,6 @@
 # Omega-strike-vita
 
-Disclaimer
+# Disclaimer
 The VPK doesn't contain any Omega Strike files. You need the game files from your legally owned copy. You can find the game here: https://store.steampowered.com/app/680340/Omega_Strike/
 
 Instructions
