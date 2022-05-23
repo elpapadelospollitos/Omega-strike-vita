@@ -1,4 +1,5 @@
 # Omega-strike-vita
+Omega Strike is a metroidvania game with a vast, open ended world and multiple playable characters. Explore the world, learn new abilities, upgrade your weapons and defeat Doctor Omega and his mutant armies!
 
 # Disclaimer
 The VPK doesn't contain any Omega Strike files. You need the game files from a legally owned copy. You can find the game here: https://store.steampowered.com/app/680340/Omega_Strike/
