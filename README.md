@@ -13,7 +13,7 @@ This is for version 1.0.1 of the game
 4. Rename data.win file to "game.win"
 5. Connect your vita to your pc
 6. Copy the game.win file to ux0:app/OMEGAVITA/games
-7. Copy all other game files (no need to copy the .exe or the icon) to ux0:app/OMEGAVITA/games
+7. Copy all other game files (no need to copy the .exe, options.ini or .dll files) to ux0:app/OMEGAVITA/games
 8. Launch the game on your Vita
 9. ????
 10. Profit
