@@ -3,6 +3,8 @@
 # Disclaimer
 The VPK doesn't contain any Omega Strike files. You need the game files from a legally owned copy. You can find the game here: https://store.steampowered.com/app/680340/Omega_Strike/
 
+This is for version 1.0.1 of the game
+
 # Instructions
 1. Download the VPK and install it
 2. Find the folder in which your legally owned copy of Omega Strike is installed
